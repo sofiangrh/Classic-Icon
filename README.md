@@ -1,2 +1,2 @@
 # Classic-Icon
-GNOME Icon Theme
+Modified version of classic icon Windows 95.
